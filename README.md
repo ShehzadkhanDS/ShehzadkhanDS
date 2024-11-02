@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ShehzadkhanDS
+- 👀 I’m interested in solving real-world problems using data science and AI. From designing recommendation systems to conducting sentiment analysis on product reviews, I’m passionate about leveraging data to create innovative solutions.
+- 🌱 I’m currently learning advanced techniques in NLP, GANs, and model deployment, aiming to enhance my expertise in building scalable AI applications.
+- 💞️ I’m looking to collaborate on projects in data science, machine learning, deep learning, and particularly those that focus on AI-driven products in fake product review, e-commerce, and customer review sectors.
+- 📫 How to reach me:  
+  - [Email](shehzadkhands.pk@gmail.com)  
+  - [LinkedIn](www.linkedin.com/in/shehzadkhands)
+- 😄 Pronouns: He/Him
+-⚡ Fun fact: When I’m not optimizing models, I’m optimizing my coffee-making skills. I’ve got a “data pipeline” for the perfect brew ☕📊
